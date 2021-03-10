@@ -1,4 +1,4 @@
-# Just giving some information
+# This is the edited read me file
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
