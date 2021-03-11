@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 
 
 const ActualDetails = (props) => {
@@ -14,6 +15,9 @@ const ActualDetails = (props) => {
             <p>Country: {strCountry}</p>
             <p>Sport type: {strSport}</p>
             <p>Gender: {strGender}</p>
+            {/* <Link to={{pathname:'{strTwitter}'}}>Twitter</Link> */}
+            {/* <button onClick={()=> window.location.assign({strTwitter})}>Twitter</button> */}
+            {/* <a href={strTwitter}>Twitter</a> */}
             {
                 strGender === 'Male' ? <img src={male} alt=""/> : <img src={female} alt=""/>
             }
