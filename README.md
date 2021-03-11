@@ -4,7 +4,7 @@ I am really busy with my exams and I am really sorry that I didn't finish it the
 
 ## Feature
 
-It has almost everything which was asked on the assignment
+It has almost everything without the social icons and proper designing which was asked on the assignment.
 
 Netlify link: https://inspiring-heisenberg-d0eefd.netlify.app/
 
