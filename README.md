@@ -1,9 +1,11 @@
 # This is the edited read me file
 
-Really sorry for the awful design, my semester final is going on so had to finish it within a night. Didn't had the luxury to make it beatiful
+I am really busy with my exams and I am really sorry that I didn't finish it the way it should have. I have sent an email explaining my situation.
 
 ## Feature
 
-It has almost everything which was asked on the assignment
+It has almost everything without the social icons and proper designing which was asked on the assignment.
 
-Netlify link: 
+Netlify link: https://inspiring-heisenberg-d0eefd.netlify.app/
+
+It is deployed but can't load the data :( 
